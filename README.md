@@ -53,5 +53,5 @@ The analysis disproves the common "Buy the Fear" advice for small traders and pr
     └── analysis_report.pdf    # Final detailed report
 
 �‍💻 Author
-**Anshu Kumar**
-* [GitHub Profile](https://github.com/Anshu404)
+**Sonali Bara**
+
